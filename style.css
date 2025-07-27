@@ -359,3 +359,9 @@ footer textarea {
   margin-bottom: 24px;
   font-size: 16px;
 }
+
+/* icon styles */
+
+.fa-phone {
+  margin-right: 10px;
+}
