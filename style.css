@@ -453,10 +453,6 @@ footer textarea {
     margin-top: 50px;
   }
 
-  .resume-container .experience {
-    text-align: center;
-  }
-
   .resume-container .information,
   .education-container,
   .experience-container {
@@ -470,9 +466,18 @@ footer textarea {
     align-items: center;
   }
 
+  .resume-container .experience,
+  .resume-container .institute,
   .resume-container .information {
-    width: auto;
     text-align: center;
+  }
+
+  .resume-container .experience {
+    font-size: 22px;
+  }
+
+  .resume-container .institute {
+    font-size: 18px;
   }
 
   #resume .button {
